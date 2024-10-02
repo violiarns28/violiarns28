@@ -18,14 +18,14 @@
 <h2 align="center">📊 GitHub Insights</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erhahahaa&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erhahahaa&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=violiarns28&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=violiarns28&theme=radical" alt="GitHub Streak" />
 </p>
 
 <h2 align="center">🏆 Achievements Showcase</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=erhahahaa&theme=radical&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=violiarns28&theme=radical&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 <h2 align="center">🌐 Let's Connect!</h2>
