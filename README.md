@@ -1,5 +1,5 @@
 <div align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=10b981&center=true&vCenter=true&width=500&lines=--+Hi,I'm+Violia+Ruana+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Tech+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=10b981&center=true&vCenter=true&width=500&lines=+Hi,I'm+Violia+Ruana+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Tech+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0" alt="Typing SVG" />
 </div>
 
 
@@ -10,9 +10,9 @@
 <h2 align="center">🛠️ Tech Mastery</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,go,kotlin,rust,ts,python,php,js,flutter,react,nextjs,svelte,tailwind" alt="Languages & Frontend" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgres,mongodb,mysql,sqlite,aws,docker,grafana,nginx,git" alt="Backend, Databases & DevOps" /><br>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai,arduino,firebase,linux" alt="Design & Other" />
+  <img src="https://skillicons.dev/icons?i=dart,kotlin,ts,js,flutter,react,nextjs,tailwind" alt="Languages & Frontend" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,postgres,mysql,nginx,git" alt="Backend, Databases & DevOps" /><br>
+  <img src="https://skillicons.dev/icons?i=figma,ps" alt="Design & Other" />
 </p>
 
 <h2 align="center">📊 GitHub Insights</h2>
